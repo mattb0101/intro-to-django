@@ -27,7 +27,7 @@ SECRET_KEY = '1r1bcc*mac^%)tidwutz(i+5u!t01!wyo%_8=vn1!v1m!y_8ky'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['git.heroku.com/django-todo-list-mb0101.git']
 
 
 # Application definition
